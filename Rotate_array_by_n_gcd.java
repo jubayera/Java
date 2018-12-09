@@ -1,7 +1,5 @@
 package com.practical_research.rotate_by_n_juggling;
 
-import com.practical_research.array_n_rotation.Rotate_array_by_n;
-
 public class Rotate_array_by_n_juggling {
 
 	/*
