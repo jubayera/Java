@@ -1,6 +1,9 @@
 package com.practical_research.subsetsum;
 
-//Recursive Subset Sum 
+/*Recursive Subset Sum. The above solution may try all subsets of given set in worst case. 
+Therefore time complexity of the above solution is exponential. 
+The problem is in-fact NP-Complete (There is no known polynomial time solution for this problem).*/
+
 public class Subset_Sum_DP 
 {
 /*
