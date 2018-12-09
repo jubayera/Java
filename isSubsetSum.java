@@ -1,5 +1,6 @@
 package com.practical_research.subsetsum;
 
+//Recursive Subset Sum 
 public class Subset_Sum_DP 
 {
 /*
